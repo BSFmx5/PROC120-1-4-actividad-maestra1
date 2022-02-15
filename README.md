@@ -1,4 +1,4 @@
-# PROC106-V1-actividad-maestra1
+# PROC107-V1-actividad-maestra1
 Detección y seguimiento de objetos.  
 Plantilla de la maestra.  
 Python. OpenCV.  
