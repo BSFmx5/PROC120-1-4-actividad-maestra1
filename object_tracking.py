@@ -47,7 +47,7 @@ while True:
     else:
         cv2.putText(img,"Perdiste",(75,90),cv2.FONT_HERSHEY_SIMPLEX,0.7,(0,0,255),2)
 
-    # Llamma goal_track()
+    # Llama goal_track()
     
 
     # Muestra el video
